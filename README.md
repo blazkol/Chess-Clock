@@ -3,7 +3,9 @@ School project written in assembly language
 
 # Detailed description
 The program displays the chess clock on the LCD display in the following way:
+
 FP--:--L--:--M--
+
 SP--:--L--:--M--
 
 where:
