@@ -1,6 +1,10 @@
 # Chess-Clock
 School project written in assembly language
 
+# Used technologies and hardware
+- Keil uVision
+- Intel 8051 Microcontroller
+
 # Detailed description
 The program displays the chess clock on the LCD display in the following way:
 
