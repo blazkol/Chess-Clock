@@ -1,7 +1,7 @@
 # Chess-Clock
 School project written in assembly language
 
-# Used technologies and hardware
+# Development environment and hardware used in project
 - Keil uVision
 - Intel 8051 Microcontroller
 
